@@ -7,7 +7,7 @@
 Construo aplicações completas — do zero à produção.
 Arquiteto sistemas, integro tecnologias e uso IA como ferramenta estratégica de desenvolvimento.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/breno-torri0806/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/breno-torri0806/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno.torri.bt@gmail.com)
 
 </div>
