@@ -2,9 +2,9 @@
 
 # Breno Torri
 
-**Full-Stack Mobile Developer**
+**Full-Stack Developer — Mobile & Web**
 
-Construo aplicações mobile completas — do zero à produção.
+Construo aplicações completas — do zero à produção.
 Arquiteto sistemas, integro tecnologias e uso IA como ferramenta estratégica de desenvolvimento.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -16,21 +16,30 @@ Arquiteto sistemas, integro tecnologias e uso IA como ferramenta estratégica de
 
 ## Sobre mim
 
-Sou desenvolvedor mobile focado em React Native e Expo, mas meu trabalho vai além das telas.
-Projeto a arquitetura dos apps, integro serviços de backend, banco de dados, autenticação, geolocalização e até hardware embarcado (ESP32).
+Sou desenvolvedor focado em React Native, Expo e Next.js — mas meu trabalho vai além das telas.
+Projeto a arquitetura dos apps, integro serviços de backend, banco de dados, autenticação, geolocalização e até hardware embarcado com sensores físicos.
+
+Recentemente expandi minha atuação para o desenvolvimento web — páginas institucionais, dashboards e plataformas completas com Next.js, styled-components e animações de interface.
 
 Uso inteligência artificial como parte do meu fluxo de trabalho — não como atalho, mas como amplificador de capacidade. Isso me permite entregar soluções completas e funcionais com velocidade e qualidade.
-
-Estou em constante evolução, sempre buscando o próximo nível técnico.
 
 ---
 
 ## Stack Principal
 
-**Mobile & Frontend**
+**Mobile**
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+
+**Web**
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
+
+**Linguagens**
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -54,10 +63,21 @@ Estou em constante evolução, sempre buscando o próximo nível técnico.
 
 ## Projetos em Destaque
 
+### TempGuard *(em desenvolvimento)*
+Plataforma completa de monitoramento inteligente de sensores.
+
+Sensores físicos enviam leituras (temperatura, umidade, pressão, combustível) para Firebase em tempo real. O usuário acompanha tudo pelo app mobile e pelo painel web. Alertas instantâneos via push notification quando qualquer leitura sai da faixa configurada.
+
+**Stack:** React Native · Expo · Next.js · Firebase · Cloud Functions · styled-components · TypeScript · sensores IoT
+
+---
+
 ### Domus Finanças
 App mobile de controle financeiro pessoal.
 
 Autenticação com Google (Firebase Auth), banco local com SQLite, sincronização com Firestore, gráficos de receitas e despesas, controle de categorias e saldo. Arquitetura com Context API e custom hooks.
+
+**Stack:** React Native · Expo · Firebase · SQLite · TypeScript
 
 ---
 
@@ -66,28 +86,22 @@ Plataforma mobile que conecta personal trainers e profissionais fitness a client
 
 Geolocalização em tempo real, sistema de matching por proximidade, autenticação e banco de dados via Firebase, gerenciamento de estado com Zustand.
 
----
-
-### Projeto IoT com ESP32 *(em desenvolvimento)*
-Sistema de monitoramento com sensores físicos integrado à nuvem.
-
-Leitura de sensores via ESP32, transmissão de dados para Firebase, processamento com Cloud Functions e autenticação de dispositivos.
+**Stack:** React Native · Expo · Firebase · Zustand · TypeScript
 
 ---
 
 ## Atualmente Aprendendo
 
-- Padrões avançados em React Native (performance, arquitetura escalável)
+- Padrões avançados de performance e arquitetura escalável em React Native
 - Backend com Node.js e integração de APIs REST
-- Desenvolvimento web com React
-- Aprofundamento em IoT e comunicação entre hardware e nuvem
+- Aprofundamento em IoT — comunicação entre hardware e nuvem
 
 ---
 
 ## Diferenciais
 
-- Arquiteto aplicações completas do zero, do design à infraestrutura
-- Integro sistemas distintos (mobile, cloud, hardware) em soluções coesas
+- Arquiteto aplicações completas do zero — mobile, web e infraestrutura
+- Integro sistemas distintos (app, dashboard web, cloud, hardware) em produtos coesos
 - Uso IA estrategicamente para acelerar e ampliar a capacidade de entrega
 - Foco em produto funcional, não só em código
 
@@ -98,4 +112,3 @@ Leitura de sensores via ESP32, transmissão de dados para Firebase, processament
 *Construindo. Aprendendo. Evoluindo.*
 
 </div>
-
