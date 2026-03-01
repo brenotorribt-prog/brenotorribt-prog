@@ -101,9 +101,10 @@ Geolocalização em tempo real, sistema de matching por proximidade, autenticaç
 
 ## Atualmente Aprendendo
 
-- Padrões avançados de performance e arquitetura escalável em React Native
-- Backend com Node.js e integração de APIs REST
+- Cursando Engenharia de Software
 - Aprofundamento em IoT — comunicação entre hardware e nuvem
+- Aprimorando inglês
+- Estudando modelos de negócios e empreendedorismo
 
 ---
 
