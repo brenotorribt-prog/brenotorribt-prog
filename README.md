@@ -2,10 +2,10 @@
 
 # Breno Torri
 
-**Full-Stack Developer — Mobile & Web**
+**Full-Stack Developer — Web**
 
-Construo aplicações completas — do zero à produção.
-Arquiteto sistemas, integro tecnologias e uso IA como ferramenta estratégica de desenvolvimento.
+Construo aplicações web completas — do zero à produção.
+Arquiteto sistemas, integro banco de dados e autenticação, e uso IA como ferramenta estratégica de desenvolvimento.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-torri0806/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno.torri.bt@gmail.com)
@@ -16,51 +16,44 @@ Arquiteto sistemas, integro tecnologias e uso IA como ferramenta estratégica de
 
 ## Sobre mim
 
-Sou desenvolvedor focado em React Native, Expo e Next.js — mas meu trabalho vai além das telas.
-Projeto a arquitetura dos apps, integro serviços de backend, banco de dados, autenticação, geolocalização e hardware embarcado com sensores físicos.
+Sou desenvolvedor focado em **Next.js**, com atuação completa no ciclo de desenvolvimento web: da arquitetura de dados com **Prisma** à experiência de interface com **styled-components** e **PWA**.
 
-Recentemente expandi minha atuação para o desenvolvimento web — páginas institucionais, dashboards e plataformas completas com Next.js, styled-components e animações de interface.
+Projeto sistemas completos — modelagem de banco, autenticação, regras de negócio no backend (Route Handlers) e interfaces responsivas e performáticas no frontend. Trabalho com **PostgreSQL**, **Supabase**, **Firebase** e **SQLite** dependendo do contexto do projeto.
 
 Uso inteligência artificial como parte do meu fluxo de trabalho — não como atalho, mas como amplificador de capacidade. Isso me permite entregar soluções completas e funcionais com velocidade e qualidade.
+
+Venho de uma base em desenvolvimento mobile (React Native/Expo) e estou expandindo agora para **Flutter**, unindo essa experiência prévia a um foco full-stack em produtos web robustos.
 
 ---
 
 ## Stack Principal
 
-**Mobile**
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
-
-**Web**
+**Web & Frontend**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
+[![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
 **Linguagens**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Backend & Cloud**
+**Backend & ORM**
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://prisma.io)
 [![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://firebase.google.com/products/functions)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 **Banco de Dados**
 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/products/firestore)
-[![Realtime Database](https://img.shields.io/badge/Realtime_Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/products/realtime-database)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-
-**IoT & Mensageria**
-
-[![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org)
-[![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mosquitto.org)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://espressif.com)
 
 **Estado, Arquitetura & Ferramentas**
 
@@ -70,39 +63,30 @@ Uso inteligência artificial como parte do meu fluxo de trabalho — não como a
 
 ---
 
-## Projetos em Destaque
+## Projeto em Destaque
 
-### TempGuard *(em desenvolvimento)*
-Plataforma completa de monitoramento inteligente de sensores.
+### Sistema de Almoxarifado — Next.js Full-Stack
 
-Sensores físicos enviam leituras (temperatura, umidade, pressão, combustível) para Firebase em tempo real via MQTT. O usuário acompanha tudo pelo app mobile e pelo painel web. Alertas instantâneos via push notification quando qualquer leitura sai da faixa configurada.
+Aplicação monolita full-stack em Next.js (App Router): frontend e API (Route Handlers) no mesmo deploy, com autenticação via Supabase Auth, banco PostgreSQL gerenciado com Prisma, upload direto para Cloudflare R2 via URLs presignadas, e geração de documentos (PDF e Excel) no servidor.
 
-**Stack:** React Native · Expo · Next.js · Firebase · Firestore · MQTT · Mosquitto · Cloud Functions · styled-components · TypeScript · ESP32
+Controle de papéis (RBAC) com validação em múltiplas camadas, máquina de estados para status de requisições, movimentação de estoque com snapshot e auditoria completa de alterações.
 
----
+**Stack:** Next.js · React · Prisma · PostgreSQL · Supabase · styled-components · TypeScript · Cloudflare R2
 
-### Domus Finanças
-App mobile de controle financeiro pessoal.
-
-Autenticação com Google (Firebase Auth), banco local com SQLite, sincronização com Firestore, gráficos de receitas e despesas, controle de categorias e saldo. Arquitetura com Context API e custom hooks.
-
-**Stack:** React Native · Expo · Firebase · SQLite · TypeScript
+**[▶ Ver demonstração](https://demo-almoxarifado-wheat.vercel.app/)**
 
 ---
 
-### Personal Finder
-Plataforma mobile que conecta personal trainers e profissionais fitness a clientes — modelo Uber para o mundo fit.
+## Também desenvolvi
 
-Geolocalização em tempo real, sistema de matching por proximidade, autenticação e banco de dados via Firebase, gerenciamento de estado com Zustand.
-
-**Stack:** React Native · Expo · Firebase · Zustand · TypeScript
+Antes de migrar o foco para web, desenvolvi aplicativos mobile completos com React Native/Expo — incluindo um app de controle financeiro pessoal (Firebase Auth, SQLite, sincronização com Firestore) e uma plataforma de geolocalização e matching entre profissionais e clientes (Firebase, Zustand). Essa base mobile agora está sendo redirecionada para **Flutter**.
 
 ---
 
 ## Atualmente Aprendendo
 
 - Cursando Engenharia de Software
-- Aprofundamento em IoT — comunicação entre hardware e nuvem
+- Aprofundamento em **Flutter** — próximo passo para expandir a atuação além do web
 - Aprimorando inglês
 - Estudando modelos de negócios e empreendedorismo
 
@@ -110,8 +94,8 @@ Geolocalização em tempo real, sistema de matching por proximidade, autenticaç
 
 ## Diferenciais
 
-- Arquiteto aplicações completas do zero — mobile, web e infraestrutura
-- Integro sistemas distintos (app, dashboard web, cloud, hardware) em produtos coesos
+- Arquiteto aplicações web completas do zero — banco de dados, autenticação, regras de negócio e interface
+- Domino todo o ciclo com Next.js: Route Handlers, Server Components, integração com serviços gerenciados (Supabase, R2)
 - Uso IA estrategicamente para acelerar e ampliar a capacidade de entrega
 - Foco em produto funcional, não só em código
 
